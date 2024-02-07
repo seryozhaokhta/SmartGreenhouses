@@ -1,0 +1,19 @@
+.logo,
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.logo {
+  cursor: pointer;
+  font-size: 1.5rem;
+}
+
+nav a {
+  margin-left: 1rem;
+}
+
+.menu img {
+  width: 20px;
+  height: 20px;
+}

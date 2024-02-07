@@ -1,0 +1,24 @@
+
+@media (max-width: 480px) {
+  header {
+    padding: 5px; 
+  }
+
+  .header .logo {
+    font-size: 1.2rem;
+  }
+
+  header, nav, a {
+    margin-left: 0.5rem; 
+  }
+
+  .menu img {
+    width: 20px; 
+    height: 20px;
+  }
+
+  footer {
+    padding: 5px;
+    font-size: 0.8rem; 
+  }
+}

@@ -1,0 +1,46 @@
+.iconContainer {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.icon-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.leftSide,
+.rightSide {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.leftSide {
+  align-items: flex-start;
+}
+
+.rightSide {
+  align-items: flex-end;
+}
+
+.cell {
+  margin: 10px;
+}
+
+h2 {
+  color: white;
+  margin-bottom: -5px;
+  font-size: 30px;
+  line-height: 0.95;
+  font-weight: 500;
+}
+
+p {
+  color: white;
+  max-width: 24em;
+  font-size: 18px;
+  line-height: 1.5;
+}
